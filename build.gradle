@@ -4,5 +4,5 @@ dependencies {
 	cssBuilder group: "com.liferay", name: "com.liferay.css.builder", version: "3.0.2"
 	
 	compileOnly project(":modules:PrevencionServices73")
-	compileOnly project(":modules:PrevencionServiceBuilder73SVN:PrevencionServiceBuilder73-api")
+	compileOnly project(":modules:PrevencionServiceBuilder73:PrevencionServiceBuilder73-api")
 }
